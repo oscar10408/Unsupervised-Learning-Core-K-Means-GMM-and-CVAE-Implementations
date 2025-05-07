@@ -1,4 +1,4 @@
-# Unsupervised Learning Toolkit (EECS 545 HW5)
+# Unsupervised Learning Toolkit
 
 This repository provides clean and well-documented implementations of fundamental **unsupervised learning algorithms**, applied to tasks like **image compression**, **source separation**, and **generative modeling**. It includes both classical methods implemented in NumPy and deep learning models using PyTorch.
 
