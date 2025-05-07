@@ -18,7 +18,7 @@ This repository showcases a collection of essential **unsupervised learning algo
 
 ## 1️⃣ K-Means Clustering
 
-K-Means partitions input data (e.g. image pixels) into `K` clusters by minimizing intra-cluster variance. It is widely used for **color quantization** and **image compression**.
+K-Means partitions input data (e.g. image pixeds) into `K` clusters by minimizing intra-cluster variance. It is widely used for **color quantization** and **image compression**.
 
 ### 📷 Result: K-Means Color Quantization
 
@@ -54,11 +54,11 @@ ICA separates mixed signals into statistically independent components. Often use
 
 Click the links below to download or listen to the separated audio signals:
 
-- [🔊 Source 1](Audios/ica_unmixes_track_0.wav)
-- [🔊 Source 2](Audios/ica_unmixes_track_1.wav)
-- [🔊 Source 3](Audios/ica_unmixes_track_2.wav)
-- [🔊 Source 4](Audios/ica_unmixes_track_3.wav)
-- [🔊 Source 5](Audios/ica_unmixes_track_4.wav)
+- [🔊 Source 1](Audios/ica_unmixed_track_0.wav)
+- [🔊 Source 2](Audios/ica_unmixed_track_1.wav)
+- [🔊 Source 3](Audios/ica_unmixed_track_2.wav)
+- [🔊 Source 4](Audios/ica_unmixed_track_3.wav)
+- [🔊 Source 5](Audios/ica_unmixed_track_4.wav)
 
 > 💡 Note: ICA recovers the signals up to permutation and scaling—so the order and amplitude may not match the true sources, but the content remains clearly separated.
 
