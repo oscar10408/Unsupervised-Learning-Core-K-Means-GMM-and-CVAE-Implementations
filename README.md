@@ -48,9 +48,19 @@ PCA reduces dimensionality by projecting data onto the top eigenvectors of its c
 
 ## 4️⃣ Independent Component Analysis (ICA)
 
-ICA separates mixed signals into statistically independent components. Often used in **audio signal processing** or **blind source separation**, it differs from PCA by targeting independence rather than uncorrelatedness.
+ICA separates mixed signals into statistically independent components. Often used in **Audios signunmixes_track_ processing** or **blind source separation**, it differs from PCA by targeting independence rather than uncorrelatedness.
 
-_(Image not included; ICA typically yields 1D signal plots)_
+### 🎧 Recovered Audio Samples
+
+Click the links below to download or listen to the separated audio signals:
+
+- [🔊 Source 1](Audios/ica_unmixes_track_0.wav)
+- [🔊 Source 2](Audios/ica_unmixes_track_1.wav)
+- [🔊 Source 3](Audios/ica_unmixes_track_2.wav)
+- [🔊 Source 4](Audios/ica_unmixes_track_3.wav)
+- [🔊 Source 5](Audios/ica_unmixes_track_4.wav)
+
+> 💡 Note: ICA recovers the signals up to permutation and scaling—so the order and amplitude may not match the true sources, but the content remains clearly separated.
 
 ---
 
